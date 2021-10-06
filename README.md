@@ -21,7 +21,7 @@ The application works with firebase to exchange data.
 
 In this application *I do not use firebase tools*, but I show an example of how you can use this application with another site using http Dart application library.
 
-App can do many things which you can see in gifs below.
+App can do many things which you can see in images below.
 
 #
 
