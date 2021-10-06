@@ -46,7 +46,7 @@ App can do many things which you can see in gifs below.
 |<div align="center"><img src="https://github.com/PavelMaltsev20/OnlineShop/blob/master/documentation/gifs/cart.gif?raw=true" width="170" height="320"> </div>| <div align="center"><img src="https://github.com/PavelMaltsev20/OnlineShop/blob/master/documentation/gifs/place_order.gif?raw=true" width="170" height="320"></div>  |
 
 #
-|Orders history| Make order|
+|Orders history| |
 |--|--|
-|<div align="center"><img src="https://github.com/PavelMaltsev20/OnlineShop/blob/master/documentation/gifs/orders.gif?raw=true" width="170" height="320"> </div>| <div align="center"><img src="https://github.com/PavelMaltsev20/OnlineShop/blob/master/documentation/gifs/place_order.gif?raw=true" width="170" height="320"></div>  |
+|<div align="center"><img src="https://github.com/PavelMaltsev20/OnlineShop/blob/master/documentation/gifs/orders.gif?raw=true" width="170" height="320"> </div>|  |
 
