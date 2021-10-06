@@ -48,5 +48,5 @@ App can do many things which you can see in gifs below.
 #
 |Orders history| |
 |--|--|
-|<div align="center"><img src="https://github.com/PavelMaltsev20/OnlineShop/blob/master/documentation/gifs/orders.gif?raw=true" width="170" height="320"> </div>|  |
+|<div align="center"><img src="https://github.com/PavelMaltsev20/OnlineShop/blob/master/documentation/gifs/orders.gif?raw=true" width="170" height="320"> </div>| <div align="center"><img src="https://github.com/PavelMaltsev20/OnlineShop/raw/master/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png?raw=true" width="170" height="320"> </div> |
 
