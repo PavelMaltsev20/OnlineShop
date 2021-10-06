@@ -1,16 +1,52 @@
-# shopapp
 
-A new Flutter project.
+<div align="center">
+<img src="https://github.com/PavelMaltsev20/OnlineShop/blob/master/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png?raw=true" width="200" height="200">
+<div>
+  
+# Welcome to Online shop project!
 
-## Getting Started
+Tech:
+  
+**Androi studio, Flutter, Dart,** NoSql, FirebaseAuth, Firestore Database, State Managment, Provider, Http dart library
+##
+  
+Overview: 
+  
 
-This project is a starting point for a Flutter application.
+An application emulator of an online store.
 
-A few resources to get you started if this is your first Flutter project:
+Each user can put his product on sale and it will be available to other users.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+The application works with firebase to exchange data.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+In this application *I do not use firebase tools*, but I show an example of how you can use this application with another site using http Dart application library.
+
+App can do many things which you can see in gifs below.
+
+#
+
+ 
+|Sign in and Sign up page| Product example|
+|--|--|
+| <div align="center"><img src="https://github.com/PavelMaltsev20/OnlineShop/blob/master/documentation/gifs/signin.gif?raw=true" width="170" height="250"></div>  |  <img src="https://github.com/PavelMaltsev20/OnlineShop/blob/master/documentation/gifs/item.gif?raw=true" width="170" height="250">   |
+
+#
+|Favorites| Placeholders |
+|--|--|
+|<div align="center"><img src="https://github.com/PavelMaltsev20/OnlineShop/blob/master/documentation/gifs/favorites.gif?raw=true" width="170" height="250"> </div>| <div align="center"><img src="https://github.com/PavelMaltsev20/OnlineShop/blob/master/documentation/gifs/placeholder.jpg?raw=true" width="170" height="250"></div>  |
+
+#
+|Change product| Delete product|
+|--|--|
+|<div align="center"><img src="https://github.com/PavelMaltsev20/OnlineShop/blob/master/documentation/gifs/changes.gif?raw=true" width="170" height="250"> </div>| <div align="center"><img src="https://github.com/PavelMaltsev20/OnlineShop/blob/master/documentation/gifs/delete.gif?raw=truehttps://github.com/PavelMaltsev20/OnlineShop/blob/master/documentation/gifs/delete.gif?raw=true" width="170" height="250"></div>  |
+
+#
+|Add to cart| Make order|
+|--|--|
+|<div align="center"><img src="https://github.com/PavelMaltsev20/OnlineShop/blob/master/documentation/gifs/cart.gif?raw=true" width="170" height="250"> </div>| <div align="center"><img src="https://github.com/PavelMaltsev20/OnlineShop/blob/master/documentation/gifs/place_order.gif?raw=true" width="170" height="250"></div>  |
+
+#
+|Orders history| Make order|
+|--|--|
+|<div align="center"><img src="https://github.com/PavelMaltsev20/OnlineShop/blob/master/documentation/gifs/orders.gif?raw=true" width="170" height="250"> </div>| <div align="center"><img src="https://github.com/PavelMaltsev20/OnlineShop/blob/master/documentation/gifs/place_order.gif?raw=true" width="170" height="250"></div>  |
+
