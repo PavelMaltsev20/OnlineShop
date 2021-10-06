@@ -28,25 +28,25 @@ App can do many things which you can see in gifs below.
  
 |Sign in and Sign up page| Product example|
 |--|--|
-| <div align="center"><img src="https://github.com/PavelMaltsev20/OnlineShop/blob/master/documentation/gifs/signin.gif?raw=true" width="170" height="250"></div>  |  <img src="https://github.com/PavelMaltsev20/OnlineShop/blob/master/documentation/gifs/item.gif?raw=true" width="170" height="250">   |
+| <div align="center"><img src="https://github.com/PavelMaltsev20/OnlineShop/blob/master/documentation/gifs/signin.gif?raw=true" width="170" height="320"></div>  |  <img src="https://github.com/PavelMaltsev20/OnlineShop/blob/master/documentation/gifs/item.gif?raw=true" width="170" height="320">   |
 
 #
 |Favorites| Placeholders |
 |--|--|
-|<div align="center"><img src="https://github.com/PavelMaltsev20/OnlineShop/blob/master/documentation/gifs/favorites.gif?raw=true" width="170" height="250"> </div>| <div align="center"><img src="https://github.com/PavelMaltsev20/OnlineShop/blob/master/documentation/gifs/placeholder.jpg?raw=true" width="170" height="250"></div>  |
+|<div align="center"><img src="https://github.com/PavelMaltsev20/OnlineShop/blob/master/documentation/gifs/favorites.gif?raw=true" width="170" height="320"> </div>| <div align="center"><img src="https://github.com/PavelMaltsev20/OnlineShop/blob/master/documentation/gifs/placeholder.jpg?raw=true" width="170" height="320"></div>  |
 
 #
 |Change product| Delete product|
 |--|--|
-|<div align="center"><img src="https://github.com/PavelMaltsev20/OnlineShop/blob/master/documentation/gifs/changes.gif?raw=true" width="170" height="250"> </div>| <div align="center"><img src="https://github.com/PavelMaltsev20/OnlineShop/blob/master/documentation/gifs/delete.gif?raw=truehttps://github.com/PavelMaltsev20/OnlineShop/blob/master/documentation/gifs/delete.gif?raw=true" width="170" height="250"></div>  |
+|<div align="center"><img src="https://github.com/PavelMaltsev20/OnlineShop/blob/master/documentation/gifs/changes.gif?raw=true" width="170" height="320"> </div>| <div align="center"><img src="https://github.com/PavelMaltsev20/OnlineShop/blob/master/documentation/gifs/delete.gif?raw=truehttps://github.com/PavelMaltsev20/OnlineShop/blob/master/documentation/gifs/delete.gif?raw=true" width="170" height="320"></div>  |
 
 #
 |Add to cart| Make order|
 |--|--|
-|<div align="center"><img src="https://github.com/PavelMaltsev20/OnlineShop/blob/master/documentation/gifs/cart.gif?raw=true" width="170" height="250"> </div>| <div align="center"><img src="https://github.com/PavelMaltsev20/OnlineShop/blob/master/documentation/gifs/place_order.gif?raw=true" width="170" height="250"></div>  |
+|<div align="center"><img src="https://github.com/PavelMaltsev20/OnlineShop/blob/master/documentation/gifs/cart.gif?raw=true" width="170" height="320"> </div>| <div align="center"><img src="https://github.com/PavelMaltsev20/OnlineShop/blob/master/documentation/gifs/place_order.gif?raw=true" width="170" height="320"></div>  |
 
 #
 |Orders history| Make order|
 |--|--|
-|<div align="center"><img src="https://github.com/PavelMaltsev20/OnlineShop/blob/master/documentation/gifs/orders.gif?raw=true" width="170" height="250"> </div>| <div align="center"><img src="https://github.com/PavelMaltsev20/OnlineShop/blob/master/documentation/gifs/place_order.gif?raw=true" width="170" height="250"></div>  |
+|<div align="center"><img src="https://github.com/PavelMaltsev20/OnlineShop/blob/master/documentation/gifs/orders.gif?raw=true" width="170" height="320"> </div>| <div align="center"><img src="https://github.com/PavelMaltsev20/OnlineShop/blob/master/documentation/gifs/place_order.gif?raw=true" width="170" height="320"></div>  |
 
