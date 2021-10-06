@@ -265,8 +265,8 @@ class ProductsProvider with ChangeNotifier {
     //In server side we don't need it because delete request failed
     if (response.statusCode >= 400) {
       _allProducts.add(existingProduct);
-      notifyListeners();
       throw HttpException("Failed to delete product.\n${response.body}");
     }
+    notifyListeners();
   }
 }
