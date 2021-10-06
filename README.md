@@ -13,7 +13,7 @@ Tech:
 Overview: 
   
 
-An application emulator of an online store.
+Online store emulator application.
 
 Each user can put his product on sale and it will be available to other users.
 
